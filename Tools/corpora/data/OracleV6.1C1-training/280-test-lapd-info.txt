@@ -1,0 +1,1 @@
+DECL STMT SPECIFIER private TYPE final char term attribute SPECIFIER final NAME char term attribute NAME term attr private JJ final JJ char NN term NN attribute NN root ROOT attribute compound attribute char compound attribute term term NN attr NN root ROOT attr compound attr term,0

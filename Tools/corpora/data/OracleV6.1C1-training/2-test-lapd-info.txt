@@ -1,0 +1,1 @@
+FUNCTION SPECIFIER public TYPE string NAME string NAME is xml PARAMETER LIST BLOCK RETURN return is xml EXPR is xml NAME is xml public NN string NN is VBZ xml NN root ROOT xml cop xml is return NN is VBZ xml NN root ROOT xml cop xml is,1

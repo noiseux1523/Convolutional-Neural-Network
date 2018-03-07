@@ -1,0 +1,1 @@
+DECL STMT SPECIFIER private TYPE pending term NAME pending term NAME last pending term private JJ pending VBG term NN root ROOT term amod term pending last JJ pending JJ term NN root ROOT term amod term last amod term pending,0

@@ -1,0 +1,1 @@
+FUNCTION SPECIFIER public TYPE long NAME long NAME get clicks PARAMETER LIST BLOCK RETURN return clicks EXPR clicks NAME clicks public NN long RB get VB clicks NNS root ROOT get dobj get clicks return NN clicks NNS,1

@@ -1,0 +1,1 @@
+DECL STMT SPECIFIER private TYPE volatile target state SPECIFIER volatile NAME target state NAME target state private JJ volatile JJ target NN state NN root ROOT state compound state target target NN state NN root ROOT state compound state target,0

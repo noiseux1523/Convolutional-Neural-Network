@@ -1,0 +1,1 @@
+FUNCTION SPECIFIER public TYPE float NAME float NAME get score PARAMETER LIST BLOCK RETURN return score EXPR score NAME score public NN float NN get VB score NN root ROOT get dobj get score return NN score NN,0

@@ -1,0 +1,1 @@
+DECL STMT SPECIFIER private TYPE string NAME string NAME types private JJ string NN types NNS,1

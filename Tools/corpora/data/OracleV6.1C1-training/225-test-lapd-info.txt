@@ -1,0 +1,1 @@
+FUNCTION DECL abstract builder t set method method method SPECIFIER abstract TYPE builder t NAME builder t NAME builder ARGUMENT LIST ARGUMENT NAME t NAME set method PARAMETER LIST method method PARAMETER method method TYPE method NAME method NAME method abstract JJ builder NN t NN set NN method NN root ROOT method compound method set method NN method NN,1

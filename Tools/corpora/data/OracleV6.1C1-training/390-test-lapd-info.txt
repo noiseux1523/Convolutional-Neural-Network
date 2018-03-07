@@ -1,0 +1,1 @@
+DECL STMT SPECIFIER public SPECIFIER static TYPE final int SPECIFIER final NAME int NAME apr lock flock INIT EXPR public NN static JJ final JJ int NN apr NN lock NN flock NN root ROOT flock compound flock apr compound flock lock flock NN,0

@@ -1,0 +1,1 @@
+COMMENT maximum size of the queue DECL STMT SPECIFIER private TYPE final int SPECIFIER final NAME int NAME max size maximum size of the queue root ROOT size amod size maximum case queue of det queue the nmod of size queue private JJ final JJ int NN max NN size NN root ROOT size compound size max,0

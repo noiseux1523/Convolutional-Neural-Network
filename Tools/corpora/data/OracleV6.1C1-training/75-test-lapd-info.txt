@@ -1,0 +1,1 @@
+DECL STMT SPECIFIER private TYPE int NAME int NAME bloom size private JJ int NN bloom NN size NN root ROOT size compound size bloom,0

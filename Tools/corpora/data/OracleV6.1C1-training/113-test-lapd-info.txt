@@ -1,0 +1,1 @@
+COMMENT returns the pattern term FUNCTION SPECIFIER public TYPE term NAME term NAME get term PARAMETER LIST BLOCK RETURN return term EXPR term NAME term returns the pattern term root ROOT returns det term the compound term pattern dobj returns term public NN term NN get VB term NN root ROOT get dobj get term return NN term NN,0

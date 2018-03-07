@@ -1,0 +1,1 @@
+DECL STMT SPECIFIER private TYPE print stream NAME print stream NAME output stream private JJ print NN stream NN root ROOT stream compound stream print output NN stream NN root ROOT stream compound stream output,0

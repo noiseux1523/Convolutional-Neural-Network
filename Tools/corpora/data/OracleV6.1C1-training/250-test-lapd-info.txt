@@ -1,0 +1,1 @@
+DECL STMT SPECIFIER public TYPE int NAME int NAME value public NN int NN value NN,0

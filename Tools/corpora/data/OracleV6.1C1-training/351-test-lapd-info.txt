@@ -1,0 +1,1 @@
+DECL STMT SPECIFIER private SPECIFIER static TYPE final int SPECIFIER final NAME int NAME id java adapter INIT EXPR private JJ static JJ final JJ int NN id NN java NN adapter NN root ROOT adapter compound adapter id compound adapter java,0

@@ -1,0 +1,1 @@
+COMMENT escape character DECL STMT SPECIFIER public SPECIFIER static TYPE final char SPECIFIER final NAME char NAME wildcard escape INIT EXPR escape character root ROOT escape dobj escape character public NN static JJ final JJ char NN wildcard NN escape NN root ROOT escape compound escape wildcard,0

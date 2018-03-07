@@ -1,0 +1,46 @@
+============================================
+TO CREATE FOLDS FOR PROJECT CROSS VALIDATION
+============================================
+
+Modify neg-train.txt, pos-train.txt, neg-test.txt and pos-test.txt with the list of the system files you want to have for the project cross validation 
+	(e.g.: For 8 projects train 1 project test
+
+			neg-train.txt => 	./0-test-folded-ant.txt.neg
+								./0-test-folded-columba.txt.neg
+								./0-test-folded-hibernate.txt.neg
+								./0-test-folded-jedit.txt.neg
+								./0-test-folded-jfreechart.txt.neg
+								./0-test-folded-jmeter.txt.neg
+								./0-test-folded-jruby.txt.neg
+								./0-test-folded-sql.txt.neg
+
+			pos-train.txt => 	./0-test-folded-ant.txt.pos
+								./0-test-folded-columba.txt.pos
+								./0-test-folded-hibernate.txt.pos
+								./0-test-folded-jedit.txt.pos
+								./0-test-folded-jfreechart.txt.pos
+								./0-test-folded-jmeter.txt.pos
+								./0-test-folded-jruby.txt.pos
+								./0-test-folded-sql.txt.pos
+
+			neg-test.txt => 	./0-test-folded-argoUML.txt.neg
+	)
+
+cat ./pos-train.txt | while read file;  do echo $file; cat $file >> train-1.txt.pos; done
+cat ./neg-train.txt | while read file;  do echo $file; cat $file >> train-1.txt.neg; done
+cat ./pos-test.txt  | while read file;  do echo $file; cat $file >> test-1.txt.pos; done
+cat ./neg-test.txt  | while read file;  do echo $file; cat $file >> test-1.txt.neg; done
+
+======================
+TO USE CUSTOM WORD2VEC
+======================
+
+./word2vec -train ~/Desktop/Neural-Network/encoded-comment-files/concordia-systems-text.txt -output concordia-vectors.txt -size 100 -window 5 -sample 1e-4 -negative 5 -hs 0 -binary 1 -cbow 1 -iter 3
+./word2vec -train ~/Desktop/Neural-Network/encoded-comment-files/concordia-systems-text.txt -output concordia-vectors.txt -size 100 -window 5 -sample 1e-4 -negative 5 -hs 0 -binary 0 -cbow 1 -iter 3
+./word2vec -train ~/Desktop/Neural-Network/encoded-comment-files/concordia-systems-text.txt -output concordia-vectors.bin -size 100 -window 5 -sample 1e-4 -negative 5 -hs 0 -binary 0 -cbow 1 -iter 3
+./word2vec -train ~/Desktop/Neural-Network/encoded-comment-files/concordia-systems-text.txt -output concordia-vectors.txt -size 100 -window 5 -sample 1e-4 -negative 5 -hs 0 -binary 1 -cbow 1 -iter 3
+
+
+
+
+

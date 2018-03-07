@@ -1,0 +1,1 @@
+FUNCTION DECL public string is dependency resolution required SPECIFIER public TYPE string NAME string NAME is dependency resolution required PARAMETER LIST public NN string NN is VBZ dependency NN resolution NN required VBN root ROOT required auxpass required is compound resolution dependency nsubjpass required resolution,1

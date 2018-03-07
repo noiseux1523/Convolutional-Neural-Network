@@ -1,0 +1,1 @@
+COMMENT index of first in the cyclic cache DECL STMT SPECIFIER private TYPE int NAME int NAME offset INIT EXPR index of first in the cyclic cache root ROOT index case first of nmod of index first case cache in det cache the amod cache cyclic nmod in first cache private JJ int NN offset VBN,0

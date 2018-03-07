@@ -1,0 +1,1 @@
+DECL STMT SPECIFIER private TYPE duration NAME duration NAME offset INIT duration zero EXPR duration zero NAME duration zero NAME duration NAME zero private JJ duration NN offset VBN duration NN zero CD root ROOT duration nummod duration zero,0

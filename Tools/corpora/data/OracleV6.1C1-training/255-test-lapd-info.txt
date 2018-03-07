@@ -1,0 +1,1 @@
+DECL STMT TYPE final boolean SPECIFIER final NAME boolean NAME any auto prefix terms final JJ boolean NN any DT auto NN prefix NN terms NNS root ROOT terms det terms any compound terms auto compound terms prefix,1

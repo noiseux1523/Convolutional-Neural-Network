@@ -1,0 +1,1 @@
+FUNCTION SPECIFIER public TYPE string NAME string NAME to string PARAMETER LIST BLOCK RETURN return global EXPR global public NN string NN to TO string VB root ROOT string mark string to return NN global JJ,0

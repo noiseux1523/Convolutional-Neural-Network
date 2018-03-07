@@ -1,0 +1,1 @@
+DECL STMT SPECIFIER private TYPE final fixed bit set SPECIFIER final NAME fixed bit set NAME result private JJ final JJ fixed VBN bit NN set NN root ROOT set amod set fixed compound set bit result NN,1

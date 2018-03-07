@@ -1,0 +1,1 @@
+FUNCTION SPECIFIER public TYPE list NAME list NAME get expansion PARAMETER LIST BLOCK RETURN return f expansion EXPR f expansion NAME f expansion public NN list NN get VB expansion NN root ROOT get dobj get expansion return NN f LS expansion NN root ROOT f root f expansion,1

@@ -1,0 +1,1 @@
+FUNCTION SPECIFIER public TYPE string NAME string NAME get types PARAMETER LIST BLOCK RETURN return types EXPR types NAME types public NN string NN get VB types NNS root ROOT get dobj get types return NN types NNS,1

@@ -1,0 +1,1 @@
+DECL STMT SPECIFIER private TYPE final duration SPECIFIER final NAME duration NAME allowed lateness private JJ final JJ duration NN allowed VBN lateness NN root ROOT allowed dobj allowed lateness,0

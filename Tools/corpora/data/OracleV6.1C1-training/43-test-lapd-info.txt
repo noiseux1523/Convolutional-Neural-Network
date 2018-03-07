@@ -1,0 +1,1 @@
+FUNCTION SPECIFIER private SPECIFIER final TYPE entry NAME entry NAME get previous PARAMETER LIST BLOCK RETURN return previous EXPR previous NAME previous private JJ final JJ entry NN get VB previous JJ root ROOT get xcomp get previous return NN previous JJ,0

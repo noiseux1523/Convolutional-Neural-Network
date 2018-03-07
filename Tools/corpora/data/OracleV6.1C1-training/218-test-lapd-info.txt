@@ -1,0 +1,1 @@
+FUNCTION DECL abstract read k v build SPECIFIER abstract TYPE read k v NAME read k v NAME read ARGUMENT LIST ARGUMENT NAME k ARGUMENT NAME v NAME build PARAMETER LIST abstract JJ read VB k NN v LS build VB k v SYNONYM SYNONYM,0

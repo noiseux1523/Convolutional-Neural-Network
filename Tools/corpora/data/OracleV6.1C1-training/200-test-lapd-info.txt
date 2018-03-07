@@ -1,0 +1,1 @@
+FUNCTION SPECIFIER public TYPE metric name NAME metric name NAME get name PARAMETER LIST BLOCK RETURN return name EXPR name NAME name public NN metric JJ name NN root ROOT name amod name metric get VB name NN root ROOT get dobj get name return NN name NN,0

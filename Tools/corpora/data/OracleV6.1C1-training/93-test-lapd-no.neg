@@ -1,0 +1,1 @@
+FUNCTION SPECIFIER public TYPE long NAME long NAME get sum doc freq PARAMETER LIST BLOCK RETURN return sum doc freq EXPR sum doc freq NAME sum doc freq public NN long RB get VB sum NN doc NN freq NN root ROOT get compound freq sum compound freq doc dobj get freq return NN sum NN doc NN freq NN root ROOT freq compound freq sum compound freq doc

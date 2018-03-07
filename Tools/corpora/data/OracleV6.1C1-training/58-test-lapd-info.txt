@@ -1,0 +1,1 @@
+DECL STMT TYPE m association end NAME m association end NAME start INIT null EXPR null m NN association NN end NN root ROOT end compound end m compound end association start NN null JJ,1

@@ -1,0 +1,1 @@
+FUNCTION SPECIFIER public TYPE k NAME k NAME key PARAMETER LIST BLOCK RETURN return key EXPR key NAME key public NN k NN key NN return NN key NN k key ANTONYM ANTONYM,0

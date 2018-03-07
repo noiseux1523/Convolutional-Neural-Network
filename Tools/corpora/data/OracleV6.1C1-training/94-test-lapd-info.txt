@@ -1,0 +1,1 @@
+FUNCTION SPECIFIER public TYPE int NAME int NAME get doc count PARAMETER LIST BLOCK RETURN return doc count EXPR doc count NAME doc count public NN int NN get VB doc NN count NN root ROOT get compound count doc dobj get count return NN doc NN count NN root ROOT count compound count doc,0

@@ -1,0 +1,1 @@
+DECL STMT TYPE int NAME int NAME references int NN references NNS,1

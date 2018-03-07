@@ -1,0 +1,1 @@
+DECL STMT SPECIFIER private SPECIFIER static TYPE final string SPECIFIER final NAME string NAME string INDEX NAME odt file private JJ static JJ final JJ string NN odt NN file NN root ROOT file compound file odt private JJ static JJ final JJ string NN odt NN file NN root ROOT file compound file odt,1

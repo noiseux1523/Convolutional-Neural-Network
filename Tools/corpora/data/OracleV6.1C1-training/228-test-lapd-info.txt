@@ -1,0 +1,1 @@
+DECL STMT SPECIFIER static TYPE final string SPECIFIER final NAME string NAME string INDEX NAME expected result static JJ final JJ string NN expected VBN result NN root ROOT result amod result expected,1

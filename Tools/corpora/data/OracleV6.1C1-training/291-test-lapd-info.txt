@@ -1,0 +1,1 @@
+DECL STMT SPECIFIER private TYPE final static string SPECIFIER final SPECIFIER static NAME string NAME creations INIT creations EXPR creations private JJ final JJ static JJ string NN creations NNS creations NNS,1

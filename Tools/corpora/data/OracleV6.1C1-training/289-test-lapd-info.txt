@@ -1,0 +1,1 @@
+DECL STMT SPECIFIER private SPECIFIER static TYPE final string SPECIFIER final NAME string NAME brokers key name INIT brokers EXPR brokers private JJ static JJ final JJ string NN brokers NNS key JJ name NN root ROOT name compound name brokers amod name key brokers NNS,0

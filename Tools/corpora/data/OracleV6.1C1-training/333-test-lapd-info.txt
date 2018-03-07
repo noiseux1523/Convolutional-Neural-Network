@@ -1,0 +1,1 @@
+FUNCTION SPECIFIER public TYPE boolean NAME boolean NAME is complete PARAMETER LIST BLOCK RETURN return complete EXPR complete NAME complete public NN boolean NN is VBZ complete JJ root ROOT complete cop complete is return NN complete JJ,0

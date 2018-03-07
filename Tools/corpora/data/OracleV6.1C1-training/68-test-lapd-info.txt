@@ -1,0 +1,1 @@
+DECL STMT TYPE long NAME long NAME fp end long RB fp NN end NN root ROOT end compound end fp,0

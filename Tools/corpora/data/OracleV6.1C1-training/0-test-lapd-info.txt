@@ -1,0 +1,1 @@
+FUNCTION SPECIFIER public TYPE string NAME string NAME is el ignored PARAMETER LIST BLOCK RETURN return el ignored EXPR el ignored NAME el ignored public NN string NN is VBZ el NN ignored VBN root ROOT ignored auxpass ignored is nsubjpass ignored el return NN el NN ignored VBD root ROOT ignored nsubj ignored el,1

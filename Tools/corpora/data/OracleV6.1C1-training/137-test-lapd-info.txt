@@ -1,0 +1,1 @@
+FUNCTION SPECIFIER public TYPE boolean NAME boolean NAME has next PARAMETER LIST BLOCK RETURN return num records EXPR num records NAME num records public NN boolean NN has VBZ next JJ root ROOT has advmod has next return NN num NN records NNS root ROOT records compound records num,0

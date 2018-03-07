@@ -1,0 +1,1 @@
+DECL STMT SPECIFIER private TYPE final offset storage reader SPECIFIER final NAME offset storage reader NAME reader private JJ final JJ offset VBN storage NN reader NN root ROOT reader amod reader offset compound reader storage reader NN,0

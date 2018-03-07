@@ -1,0 +1,1 @@
+DECL STMT TYPE int NAME int NAME int INDEX NAME is reached int NN is VBZ reached VBN root ROOT reached auxpass reached is,1

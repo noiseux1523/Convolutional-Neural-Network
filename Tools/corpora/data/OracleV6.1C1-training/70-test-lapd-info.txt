@@ -1,0 +1,1 @@
+DECL STMT TYPE byte NAME byte NAME byte INDEX NAME floor data INIT new byte EXPR new byte NAME byte NAME byte INDEX EXPR byte NN floor NN data NNS root ROOT data compound data floor new JJ byte NN,0

@@ -1,0 +1,1 @@
+CONSTRUCTOR public delay fn duration delay this delay delay SPECIFIER public NAME delay fn PARAMETER LIST duration delay PARAMETER duration delay TYPE duration NAME duration NAME delay BLOCK EXPR this delay delay NAME this delay NAME this NAME delay NAME delay public NN delay NN fn NN root ROOT fn compound fn delay duration NN delay NN this DT delay NN delay NN,0

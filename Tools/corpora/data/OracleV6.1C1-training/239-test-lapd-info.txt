@@ -1,0 +1,1 @@
+FUNCTION SPECIFIER public TYPE void NAME void NAME close PARAMETER LIST THROWS throws exception ARGUMENT EXPR exception NAME exception BLOCK EXPR tester close CALL tester close NAME tester close NAME tester NAME close ARGUMENT LIST public NN void NN close RB throws VBZ exception NN tester NN close NN root ROOT close compound close tester public close ANTONYM ANTONYM,0

@@ -1,0 +1,1 @@
+DECL STMT SPECIFIER public SPECIFIER static TYPE final long SPECIFIER final NAME long NAME default failure delay ms INIT EXPR public NN static JJ final JJ long RB default NN failure NN delay NN ms NNS root ROOT ms compound ms default compound ms failure compound ms delay,0

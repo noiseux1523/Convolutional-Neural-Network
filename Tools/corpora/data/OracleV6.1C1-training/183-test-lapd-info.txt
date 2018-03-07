@@ -1,0 +1,1 @@
+DECL STMT SPECIFIER private TYPE final side input reader SPECIFIER final NAME side input reader NAME side input reader private JJ final JJ side NN input NN reader NN root ROOT reader compound reader side compound reader input side NN input NN reader NN root ROOT reader compound reader side compound reader input,0

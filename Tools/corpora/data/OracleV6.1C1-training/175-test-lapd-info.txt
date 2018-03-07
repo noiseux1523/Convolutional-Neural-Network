@@ -1,0 +1,1 @@
+FUNCTION SPECIFIER public TYPE string NAME string NAME string key PARAMETER LIST BLOCK RETURN return global string EXPR global string NAME global string public NN string NN string NN key NN root ROOT key compound key string return NN global JJ string NN root ROOT string amod string global,0

@@ -1,0 +1,1 @@
+FUNCTION SPECIFIER public TYPE dirty state NAME dirty state NAME get dirty PARAMETER LIST BLOCK RETURN return dirty EXPR dirty NAME dirty public NN dirty JJ state NN root ROOT state amod state dirty get VB dirty JJ root ROOT get xcomp get dirty return NN dirty JJ,0

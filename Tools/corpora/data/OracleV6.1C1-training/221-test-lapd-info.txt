@@ -1,0 +1,1 @@
+DECL STMT SPECIFIER private SPECIFIER transient TYPE configuration NAME configuration NAME conf private JJ transient JJ configuration NN conf NN,0

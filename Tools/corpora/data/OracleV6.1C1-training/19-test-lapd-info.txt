@@ -1,0 +1,1 @@
+DECL STMT SPECIFIER private TYPE final boolean SPECIFIER final NAME boolean NAME methods private JJ final JJ boolean NN methods NNS,1

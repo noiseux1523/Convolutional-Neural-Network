@@ -1,0 +1,1 @@
+COMMENT is there an expectation DECL STMT SPECIFIER private TYPE boolean NAME boolean NAME expectation INIT false EXPR false is there an expectation root ROOT is expl is there det expectation an nsubj is expectation private JJ boolean NN expectation NN false JJ,0

@@ -1,0 +1,1 @@
+DECL STMT SPECIFIER private TYPE final terms enum with slice SPECIFIER final NAME terms enum with slice NAME terms enum with slice INDEX NAME top private JJ final JJ terms NNS enum VBP with IN slice NN root ROOT enum nsubj enum terms case slice with nmod with enum slice top NN,1

@@ -1,0 +1,1 @@
+FUNCTION SPECIFIER public TYPE boolean NAME boolean NAME get stats PARAMETER LIST BLOCK RETURN return stats EXPR stats NAME stats public NN boolean NN get VB stats NNS root ROOT get dobj get stats return NN stats NNS,1

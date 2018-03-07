@@ -1,0 +1,1 @@
+DECL STMT SPECIFIER protected TYPE final active window set w SPECIFIER final NAME active window set w NAME active window set ARGUMENT LIST ARGUMENT NAME w NAME active windows protected VBN final JJ active JJ window NN set NN root ROOT set amod set active compound set window w NN active JJ windows NNS root ROOT windows amod windows active,0

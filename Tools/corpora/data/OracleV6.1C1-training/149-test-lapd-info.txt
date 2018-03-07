@@ -1,0 +1,1 @@
+FUNCTION SPECIFIER public TYPE void NAME void NAME stop PARAMETER LIST BLOCK EXPR delegate stop CALL delegate stop NAME delegate stop NAME delegate NAME stop ARGUMENT LIST public NN void NN stop VB delegate NN stop NN root ROOT stop compound stop delegate,0

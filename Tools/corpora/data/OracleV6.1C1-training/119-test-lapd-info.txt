@@ -1,0 +1,1 @@
+FUNCTION SPECIFIER public TYPE byte NAME byte NAME byte INDEX NAME get command PARAMETER LIST BLOCK RETURN return command EXPR command NAME command public NN byte NN get VB command NN root ROOT get dobj get command return NN command NN,1

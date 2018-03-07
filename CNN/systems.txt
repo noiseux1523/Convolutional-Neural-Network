@@ -1,0 +1,9 @@
+ant-pattern
+argouml-pattern
+columba-pattern
+hibernate-pattern
+jedit-pattern
+jfreechart-pattern
+jmeter-pattern
+jruby-pattern
+sql12-pattern

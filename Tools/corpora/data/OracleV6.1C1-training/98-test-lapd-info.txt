@@ -1,0 +1,1 @@
+FUNCTION TYPE void NAME void NAME set score PARAMETER LIST float score PARAMETER float score TYPE float NAME float NAME score BLOCK EXPR this score score NAME this score NAME this NAME score NAME score void NN set VBN score NN root ROOT set dobj set score float NN score NN this DT score NN score NN,0
